@@ -53,7 +53,7 @@ spec:
     spec:
       containers:
         - name: redisai
-          image: redislabs/redisai:edge-cpu
+          image: redislabs/redisai:latest
           ports:
             - containerPort: 6379
 
