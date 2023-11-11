@@ -1,6 +1,6 @@
 apiVersion: v2
 name: kubeml
-version: 0.1.2
+version: 0.1.3
 description: KubeML is a Serverless Platform to Train Neural Networks on Kubernetes
 keywords:
   - serverless
@@ -8,5 +8,7 @@ keywords:
 maintainers:
   - name: Diego Albo
     email: diego.albo.martinez@gmail.com
-appVersion: 0.1.2
+  - name: Stefan Petrescu
+    email: hello.spetrescu@gmail.com
+appVersion: 0.1.3
 
